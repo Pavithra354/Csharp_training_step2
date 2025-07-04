@@ -47,12 +47,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="class\ConstReadOnly.cs" />
-    <Compile Include="class\Constructor.cs" />
+    <Compile Include="class\Fielddetailes.cs" />
+    <Compile Include="Namespaces\1.AllFiles.cs" />
+    <Compile Include="Namespaces\2.ExcelFiles.cs" />
+    <Compile Include="Namespaces\3.PPTFiles.cs" />
+    <Compile Include="Namespaces\4.WordFiles.cs" />
+    <Compile Include="Namespaces\5.MainProgram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
