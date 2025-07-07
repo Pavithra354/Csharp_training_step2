@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CompanyExample.Program</StartupObject>
+    <StartupObject>Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="class\ConstReadOnly.cs" />
     <Compile Include="class\Fielddetailes.cs" />
     <Compile Include="Inheritence\ClassInheritence.cs" />
+    <Compile Include="Inheritence\InterfaceInheritence.cs" />
     <Compile Include="Namespaces\1.AllFiles.cs" />
     <Compile Include="Namespaces\2.ExcelFiles.cs" />
     <Compile Include="Namespaces\3.PPTFiles.cs" />
